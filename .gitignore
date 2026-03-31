@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+.env
+venv/
+*.pyc
+.pytest_cache/
+
+# Node / React
+node_modules/
+.DS_Store
+build/
+.env.local
+npm-debug.log*
+
+# Database & IDE
+*.sqlite3
+.idea/
+.vscode/
