@@ -1,0 +1,10 @@
+# Ignore virtual environments, cache files, and local IDE settings
+venv/
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+.env
+Dockerfile
+docker-compose.yml
+.git/
